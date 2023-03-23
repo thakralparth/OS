@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d01b537b-ae26-477e-bf8a-b02ab73ac298" name="Changes" comment="Intro to Threads and Creation of new thread">
-      <change afterPath="$PROJECT_DIR$/src/Executors/printTillHundred/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Executors/printTillHundred/printNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Executors/printTillHundred/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Executors/printTillHundred/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,12 @@
     "last_opened_file_path": "C:/Users/ss/IdeaProjects/OS/src/Executors/printTillHundred"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ss\IdeaProjects\OS\src\Executors\printTillHundred" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Executors.printTillHundred.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroToThreads.Client" />
       <module name="OS" />
@@ -54,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Executors.printTillHundred.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executors.printTillHundred.Client" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.printTillHundred.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Executors.printTillHundred.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
