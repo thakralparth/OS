@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d01b537b-ae26-477e-bf8a-b02ab73ac298" name="Changes" comment="Intro to Threads and Creation of new thread">
+      <change afterPath="$PROJECT_DIR$/src/Executors/printTillHundred/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/printTillHundred/printNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ss/IdeaProjects/OS/src/Executors/printTillHundred"
   }
 }]]></component>
   <component name="RunManager">
